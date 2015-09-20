@@ -1,0 +1,10 @@
+linters:
+  Indentation:
+    enabled: false
+
+  StringQuotes:
+    enabled: true
+    style: single_quotes # or double_quotes
+
+  PropertySortOrder:
+    order: smacss
